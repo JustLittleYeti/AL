@@ -1,10 +1,7 @@
 ### IMPORTING
 import pygame
 import random
-
-def randomfloat():
-    x=random.triangular(-1, 1, 0)
-    return x
+import config
 
 class Food(pygame.sprite.Sprite):
 
@@ -14,15 +11,13 @@ class Food(pygame.sprite.Sprite):
         self.image = pygame.image.load("images/apple.png").convert_alpha()
         self.rect = self.image.get_rect()
         self.mask = pygame.mask.from_surface(self.image)
-        self.freshness = 10
+######################################################3
+        self.freshness = config.food['freshness']
+        self.flag = "food"
 
-    def create(self,food):
-        for k in range(5):
-            k=Food()
-            food.add(k)
-            k.place()
 
-    def place(self):
+    def create(self):
+        #####################################################3
         self.x = random.randint(0,700)
         self.y = random.randint(0,500)
         self.rect.x = self.x
@@ -30,13 +25,10 @@ class Food(pygame.sprite.Sprite):
 
     def be_eaten(self,food_collision_list):
         for i in food_collision_list:
-            if self == i:
-                del self
+            if i.flag == "food":
+                return True
 
     def rotting(self):
-        self.freshness -= 1
-
-    def dissapear(self):
-        if self.freshness <= 0:
-            del self
-            #not w
+        self.freshness -= config.food['rottingPeace']
+        if self.freshness == 0:
+            return True
