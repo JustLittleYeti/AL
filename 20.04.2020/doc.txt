@@ -1,0 +1,6 @@
+Food:
+    __init__(self):
+initializing
+
+    food.create(self)
+creating x and y for food
