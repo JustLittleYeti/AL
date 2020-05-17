@@ -1,0 +1,652 @@
+
+TOUR:  1 
+
+PEACOCKS: 
+Peacock 1 Hunger:  49 Position:  94 75
+Peacock 2 Hunger:  49 Position:  132 173
+Peacock 3 Hunger:  49 Position:  115 146
+Peacock 4 Hunger:  49 Position:  149 115
+Peacock 5 Hunger:  49 Position:  105 54
+Peacock 6 Hunger:  49 Position:  183 177
+Peacock 7 Hunger:  49 Position:  85 174
+Peacock 8 Hunger:  49 Position:  112 183
+Peacock 9 Hunger:  49 Position:  137 24
+Peacock 10 Hunger:  49 Position:  108 112
+
+TIGERS: 
+Tiger 1 Hunger:  48 Position:  595 344
+Tiger 2 Hunger:  48 Position:  654 450
+Tiger 3 Hunger:  48 Position:  503 380
+Tiger 4 Hunger:  48 Position:  570 349
+Tiger 5 Hunger:  48 Position:  550 344
+Tiger 6 Hunger:  48 Position:  567 430
+Tiger 7 Hunger:  48 Position:  642 421
+Tiger 8 Hunger:  48 Position:  577 359
+Tiger 9 Hunger:  48 Position:  679 426
+Tiger 10 Hunger:  48 Position:  661 417
+
+TOUR:  2 
+
+PEACOCKS: 
+Peacock 1 Hunger:  48 Position:  94 75
+Peacock 2 Hunger:  48 Position:  132 173
+Peacock 3 Hunger:  48 Position:  115 146
+Peacock 4 Hunger:  48 Position:  149 115
+Peacock 5 Hunger:  48 Position:  105 54
+Peacock 6 Hunger:  48 Position:  183 177
+Peacock 7 Hunger:  48 Position:  85 174
+Peacock 8 Hunger:  48 Position:  112 183
+Peacock 9 Hunger:  48 Position:  137 24
+Peacock 10 Hunger:  48 Position:  108 112
+
+TIGERS: 
+Tiger 1 Hunger:  46 Position:  595 344
+Tiger 2 Hunger:  46 Position:  654 450
+Tiger 3 Hunger:  46 Position:  503 380
+Tiger 4 Hunger:  46 Position:  570 349
+Tiger 5 Hunger:  46 Position:  550 344
+Tiger 6 Hunger:  46 Position:  567 430
+Tiger 7 Hunger:  46 Position:  642 421
+Tiger 8 Hunger:  46 Position:  577 359
+Tiger 9 Hunger:  46 Position:  679 426
+Tiger 10 Hunger:  46 Position:  661 417
+
+TOUR:  3 
+
+PEACOCKS: 
+Peacock 1 Hunger:  47 Position:  94 75
+Peacock 2 Hunger:  47 Position:  132 173
+Peacock 3 Hunger:  47 Position:  115 146
+Peacock 4 Hunger:  47 Position:  149 115
+Peacock 5 Hunger:  47 Position:  105 54
+Peacock 6 Hunger:  47 Position:  183 177
+Peacock 7 Hunger:  47 Position:  85 174
+Peacock 8 Hunger:  47 Position:  112 183
+Peacock 9 Hunger:  47 Position:  137 24
+Peacock 10 Hunger:  47 Position:  108 112
+
+TIGERS: 
+Tiger 1 Hunger:  44 Position:  595 344
+Tiger 2 Hunger:  44 Position:  654 450
+Tiger 3 Hunger:  44 Position:  503 380
+Tiger 4 Hunger:  44 Position:  570 349
+Tiger 5 Hunger:  44 Position:  550 344
+Tiger 6 Hunger:  44 Position:  567 430
+Tiger 7 Hunger:  44 Position:  642 421
+Tiger 8 Hunger:  44 Position:  577 359
+Tiger 9 Hunger:  44 Position:  679 426
+Tiger 10 Hunger:  44 Position:  661 417
+
+TOUR:  4 
+
+PEACOCKS: 
+Peacock 1 Hunger:  46 Position:  94 75
+Peacock 2 Hunger:  46 Position:  132 173
+Peacock 3 Hunger:  46 Position:  115 146
+Peacock 4 Hunger:  46 Position:  149 115
+Peacock 5 Hunger:  46 Position:  105 54
+Peacock 6 Hunger:  46 Position:  183 177
+Peacock 7 Hunger:  46 Position:  85 174
+Peacock 8 Hunger:  46 Position:  112 183
+Peacock 9 Hunger:  46 Position:  137 24
+Peacock 10 Hunger:  46 Position:  108 112
+
+TIGERS: 
+Tiger 1 Hunger:  42 Position:  595 344
+Tiger 2 Hunger:  42 Position:  654 450
+Tiger 3 Hunger:  42 Position:  503 380
+Tiger 4 Hunger:  42 Position:  570 349
+Tiger 5 Hunger:  42 Position:  550 344
+Tiger 6 Hunger:  42 Position:  567 430
+Tiger 7 Hunger:  42 Position:  642 421
+Tiger 8 Hunger:  42 Position:  577 359
+Tiger 9 Hunger:  42 Position:  679 426
+Tiger 10 Hunger:  42 Position:  661 417
+
+TOUR:  5 
+
+PEACOCKS: 
+Peacock 1 Hunger:  45 Position:  94 75
+Peacock 2 Hunger:  45 Position:  132 173
+Peacock 3 Hunger:  45 Position:  115 146
+Peacock 4 Hunger:  45 Position:  149 115
+Peacock 5 Hunger:  45 Position:  105 54
+Peacock 6 Hunger:  45 Position:  183 177
+Peacock 7 Hunger:  45 Position:  85 174
+Peacock 8 Hunger:  45 Position:  112 183
+Peacock 9 Hunger:  45 Position:  137 24
+Peacock 10 Hunger:  45 Position:  108 112
+Peacock 11 Hunger:  50 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  40 Position:  595 344
+Tiger 2 Hunger:  40 Position:  654 450
+Tiger 3 Hunger:  40 Position:  503 380
+Tiger 4 Hunger:  40 Position:  570 349
+Tiger 5 Hunger:  40 Position:  550 344
+Tiger 6 Hunger:  40 Position:  567 430
+Tiger 7 Hunger:  40 Position:  642 421
+Tiger 8 Hunger:  40 Position:  577 359
+Tiger 9 Hunger:  40 Position:  679 426
+Tiger 10 Hunger:  40 Position:  661 417
+
+TOUR:  6 
+
+PEACOCKS: 
+Peacock 1 Hunger:  44 Position:  94 75
+Peacock 2 Hunger:  44 Position:  132 173
+Peacock 3 Hunger:  44 Position:  115 146
+Peacock 4 Hunger:  44 Position:  149 115
+Peacock 5 Hunger:  44 Position:  105 54
+Peacock 6 Hunger:  44 Position:  183 177
+Peacock 7 Hunger:  44 Position:  85 174
+Peacock 8 Hunger:  44 Position:  112 183
+Peacock 9 Hunger:  44 Position:  137 24
+Peacock 10 Hunger:  44 Position:  108 112
+Peacock 11 Hunger:  49 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  38 Position:  595 344
+Tiger 2 Hunger:  38 Position:  654 450
+Tiger 3 Hunger:  38 Position:  503 380
+Tiger 4 Hunger:  38 Position:  570 349
+Tiger 5 Hunger:  38 Position:  550 344
+Tiger 6 Hunger:  38 Position:  567 430
+Tiger 7 Hunger:  38 Position:  642 421
+Tiger 8 Hunger:  38 Position:  577 359
+Tiger 9 Hunger:  38 Position:  679 426
+Tiger 10 Hunger:  38 Position:  661 417
+
+TOUR:  7 
+
+PEACOCKS: 
+Peacock 1 Hunger:  43 Position:  94 75
+Peacock 2 Hunger:  43 Position:  115 146
+Peacock 3 Hunger:  53 Position:  149 115
+Peacock 4 Hunger:  43 Position:  105 54
+Peacock 5 Hunger:  43 Position:  183 177
+Peacock 6 Hunger:  43 Position:  85 174
+Peacock 7 Hunger:  43 Position:  112 183
+Peacock 8 Hunger:  43 Position:  137 24
+Peacock 9 Hunger:  43 Position:  108 112
+Peacock 10 Hunger:  48 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  36 Position:  595 344
+Tiger 2 Hunger:  36 Position:  654 450
+Tiger 3 Hunger:  36 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  36 Position:  550 344
+Tiger 6 Hunger:  36 Position:  567 430
+Tiger 7 Hunger:  36 Position:  642 421
+Tiger 8 Hunger:  36 Position:  577 359
+Tiger 9 Hunger:  36 Position:  679 426
+Tiger 10 Hunger:  36 Position:  661 417
+
+TOUR:  8 
+
+PEACOCKS: 
+Peacock 1 Hunger:  42 Position:  94 75
+Peacock 2 Hunger:  42 Position:  115 146
+Peacock 3 Hunger:  52 Position:  149 115
+Peacock 4 Hunger:  52 Position:  105 54
+Peacock 5 Hunger:  42 Position:  183 177
+Peacock 6 Hunger:  42 Position:  85 174
+Peacock 7 Hunger:  42 Position:  112 183
+Peacock 8 Hunger:  42 Position:  137 24
+Peacock 9 Hunger:  42 Position:  108 112
+Peacock 10 Hunger:  47 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  34 Position:  595 344
+Tiger 2 Hunger:  34 Position:  654 450
+Tiger 3 Hunger:  34 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  34 Position:  550 344
+Tiger 6 Hunger:  34 Position:  567 430
+Tiger 7 Hunger:  34 Position:  642 421
+Tiger 8 Hunger:  34 Position:  577 359
+Tiger 9 Hunger:  34 Position:  679 426
+Tiger 10 Hunger:  34 Position:  661 417
+
+TOUR:  9 
+
+PEACOCKS: 
+Peacock 1 Hunger:  41 Position:  94 75
+Peacock 2 Hunger:  41 Position:  115 146
+Peacock 3 Hunger:  51 Position:  149 115
+Peacock 4 Hunger:  51 Position:  105 54
+Peacock 5 Hunger:  41 Position:  183 177
+Peacock 6 Hunger:  41 Position:  85 174
+Peacock 7 Hunger:  51 Position:  112 183
+Peacock 8 Hunger:  41 Position:  137 24
+Peacock 9 Hunger:  41 Position:  108 112
+Peacock 10 Hunger:  46 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  32 Position:  595 344
+Tiger 2 Hunger:  32 Position:  654 450
+Tiger 3 Hunger:  32 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  32 Position:  550 344
+Tiger 6 Hunger:  32 Position:  567 430
+Tiger 7 Hunger:  32 Position:  642 421
+Tiger 8 Hunger:  32 Position:  577 359
+Tiger 9 Hunger:  32 Position:  679 426
+Tiger 10 Hunger:  32 Position:  661 417
+
+TOUR:  10 
+
+PEACOCKS: 
+Peacock 1 Hunger:  40 Position:  94 75
+Peacock 2 Hunger:  50 Position:  115 146
+Peacock 3 Hunger:  50 Position:  149 115
+Peacock 4 Hunger:  50 Position:  105 54
+Peacock 5 Hunger:  40 Position:  85 174
+Peacock 6 Hunger:  50 Position:  112 183
+Peacock 7 Hunger:  50 Position:  137 24
+Peacock 8 Hunger:  40 Position:  108 112
+Peacock 9 Hunger:  45 Position:  10 40
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  30 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  30 Position:  550 344
+Tiger 6 Hunger:  30 Position:  567 430
+Tiger 7 Hunger:  30 Position:  642 421
+Tiger 8 Hunger:  30 Position:  577 359
+Tiger 9 Hunger:  30 Position:  679 426
+Tiger 10 Hunger:  30 Position:  661 417
+
+TOUR:  11 
+
+PEACOCKS: 
+Peacock 1 Hunger:  49 Position:  94 75
+Peacock 2 Hunger:  49 Position:  115 146
+Peacock 3 Hunger:  49 Position:  105 54
+Peacock 4 Hunger:  49 Position:  85 174
+Peacock 5 Hunger:  50 Position:  112 183
+Peacock 6 Hunger:  49 Position:  137 24
+Peacock 7 Hunger:  39 Position:  108 112
+Peacock 8 Hunger:  44 Position:  10 40
+Peacock 9 Hunger:  50 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  28 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  28 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  28 Position:  567 430
+Tiger 7 Hunger:  28 Position:  642 421
+Tiger 8 Hunger:  28 Position:  577 359
+Tiger 9 Hunger:  28 Position:  679 426
+Tiger 10 Hunger:  28 Position:  661 417
+
+TOUR:  12 
+
+PEACOCKS: 
+Peacock 1 Hunger:  48 Position:  94 75
+Peacock 2 Hunger:  48 Position:  115 146
+Peacock 3 Hunger:  48 Position:  105 54
+Peacock 4 Hunger:  48 Position:  85 174
+Peacock 5 Hunger:  49 Position:  112 183
+Peacock 6 Hunger:  38 Position:  108 112
+Peacock 7 Hunger:  43 Position:  10 40
+Peacock 8 Hunger:  49 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  26 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  26 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  26 Position:  567 430
+Tiger 7 Hunger:  26 Position:  642 421
+Tiger 8 Hunger:  26 Position:  577 359
+Tiger 9 Hunger:  26 Position:  679 426
+Tiger 10 Hunger:  26 Position:  661 417
+
+TOUR:  13 
+
+PEACOCKS: 
+Peacock 1 Hunger:  47 Position:  94 75
+Peacock 2 Hunger:  47 Position:  115 146
+Peacock 3 Hunger:  47 Position:  105 54
+Peacock 4 Hunger:  47 Position:  85 174
+Peacock 5 Hunger:  48 Position:  112 183
+Peacock 6 Hunger:  37 Position:  108 112
+Peacock 7 Hunger:  42 Position:  10 40
+Peacock 8 Hunger:  48 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  24 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  24 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  24 Position:  567 430
+Tiger 7 Hunger:  24 Position:  642 421
+Tiger 8 Hunger:  24 Position:  577 359
+Tiger 9 Hunger:  24 Position:  679 426
+Tiger 10 Hunger:  24 Position:  661 417
+
+TOUR:  14 
+
+PEACOCKS: 
+Peacock 1 Hunger:  46 Position:  94 75
+Peacock 2 Hunger:  46 Position:  115 146
+Peacock 3 Hunger:  46 Position:  105 54
+Peacock 4 Hunger:  46 Position:  85 174
+Peacock 5 Hunger:  47 Position:  112 183
+Peacock 6 Hunger:  36 Position:  108 112
+Peacock 7 Hunger:  41 Position:  10 40
+Peacock 8 Hunger:  47 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  22 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  22 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  22 Position:  567 430
+Tiger 7 Hunger:  22 Position:  642 421
+Tiger 8 Hunger:  22 Position:  577 359
+Tiger 9 Hunger:  22 Position:  679 426
+Tiger 10 Hunger:  22 Position:  661 417
+
+TOUR:  15 
+
+PEACOCKS: 
+Peacock 1 Hunger:  45 Position:  94 75
+Peacock 2 Hunger:  45 Position:  115 146
+Peacock 3 Hunger:  45 Position:  105 54
+Peacock 4 Hunger:  46 Position:  112 183
+Peacock 5 Hunger:  35 Position:  108 112
+Peacock 6 Hunger:  40 Position:  10 40
+Peacock 7 Hunger:  46 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  20 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  20 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  20 Position:  567 430
+Tiger 7 Hunger:  20 Position:  642 421
+Tiger 8 Hunger:  20 Position:  577 359
+Tiger 9 Hunger:  20 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  16 
+
+PEACOCKS: 
+Peacock 1 Hunger:  54 Position:  94 75
+Peacock 2 Hunger:  44 Position:  115 146
+Peacock 3 Hunger:  44 Position:  105 54
+Peacock 4 Hunger:  34 Position:  108 112
+Peacock 5 Hunger:  39 Position:  10 40
+Peacock 6 Hunger:  45 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  18 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  18 Position:  567 430
+Tiger 7 Hunger:  18 Position:  642 421
+Tiger 8 Hunger:  18 Position:  577 359
+Tiger 9 Hunger:  18 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  17 
+
+PEACOCKS: 
+Peacock 1 Hunger:  53 Position:  94 75
+Peacock 2 Hunger:  53 Position:  115 146
+Peacock 3 Hunger:  43 Position:  105 54
+Peacock 4 Hunger:  43 Position:  108 112
+Peacock 5 Hunger:  38 Position:  10 40
+Peacock 6 Hunger:  44 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  16 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  16 Position:  567 430
+Tiger 7 Hunger:  16 Position:  642 421
+Tiger 8 Hunger:  16 Position:  577 359
+Tiger 9 Hunger:  16 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  18 
+
+PEACOCKS: 
+Peacock 1 Hunger:  52 Position:  94 75
+Peacock 2 Hunger:  42 Position:  105 54
+Peacock 3 Hunger:  42 Position:  108 112
+Peacock 4 Hunger:  37 Position:  10 40
+Peacock 5 Hunger:  43 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  14 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  14 Position:  567 430
+Tiger 7 Hunger:  14 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  14 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  19 
+
+PEACOCKS: 
+Peacock 1 Hunger:  51 Position:  94 75
+Peacock 2 Hunger:  41 Position:  105 54
+Peacock 3 Hunger:  36 Position:  10 40
+Peacock 4 Hunger:  42 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  12 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  12 Position:  567 430
+Tiger 7 Hunger:  12 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  12 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  20 
+
+PEACOCKS: 
+Peacock 1 Hunger:  50 Position:  94 75
+Peacock 2 Hunger:  40 Position:  105 54
+Peacock 3 Hunger:  35 Position:  10 40
+Peacock 4 Hunger:  41 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  10 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  10 Position:  567 430
+Tiger 7 Hunger:  10 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  10 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  21 
+
+PEACOCKS: 
+Peacock 1 Hunger:  49 Position:  94 75
+Peacock 2 Hunger:  39 Position:  105 54
+Peacock 3 Hunger:  34 Position:  10 40
+Peacock 4 Hunger:  40 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  8 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  8 Position:  567 430
+Tiger 7 Hunger:  8 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  8 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  22 
+
+PEACOCKS: 
+Peacock 1 Hunger:  48 Position:  94 75
+Peacock 2 Hunger:  38 Position:  105 54
+Peacock 3 Hunger:  33 Position:  10 40
+Peacock 4 Hunger:  49 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  6 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  6 Position:  567 430
+Tiger 7 Hunger:  6 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  6 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  23 
+
+PEACOCKS: 
+Peacock 1 Hunger:  47 Position:  94 75
+Peacock 2 Hunger:  37 Position:  105 54
+Peacock 3 Hunger:  32 Position:  10 40
+Peacock 4 Hunger:  48 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  4 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  4 Position:  567 430
+Tiger 7 Hunger:  4 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  4 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  24 
+
+PEACOCKS: 
+Peacock 1 Hunger:  46 Position:  94 75
+Peacock 2 Hunger:  36 Position:  105 54
+Peacock 3 Hunger:  31 Position:  10 40
+Peacock 4 Hunger:  47 Position:  7 7
+
+TIGERS: 
+Tiger 1 Hunger:  2 Position:  595 344
+Tiger 2 Hunger:  30 Position:  654 450
+Tiger 3 Hunger:  18 Position:  503 380
+Tiger 4 Hunger:  36 Position:  570 349
+Tiger 5 Hunger:  28 Position:  550 344
+Tiger 6 Hunger:  2 Position:  567 430
+Tiger 7 Hunger:  2 Position:  642 421
+Tiger 8 Hunger:  14 Position:  577 359
+Tiger 9 Hunger:  2 Position:  679 426
+Tiger 10 Hunger:  20 Position:  661 417
+
+TOUR:  25 
+
+PEACOCKS: 
+Peacock 1 Hunger:  45 Position:  94 75
+Peacock 2 Hunger:  35 Position:  105 54
+Peacock 3 Hunger:  50 Position:  114 18
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
+
+TOUR:  26 
+
+PEACOCKS: 
+Peacock 1 Hunger:  44 Position:  94 75
+Peacock 2 Hunger:  34 Position:  105 54
+Peacock 3 Hunger:  49 Position:  114 18
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
+
+TOUR:  27 
+
+PEACOCKS: 
+Peacock 1 Hunger:  33 Position:  105 54
+Peacock 2 Hunger:  48 Position:  114 18
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
+
+TOUR:  28 
+
+PEACOCKS: 
+Peacock 1 Hunger:  47 Position:  114 18
+Peacock 2 Hunger:  50 Position:  39 47
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
+
+TOUR:  29 
+
+PEACOCKS: 
+Peacock 1 Hunger:  46 Position:  114 18
+Peacock 2 Hunger:  49 Position:  39 47
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
+
+TOUR:  30 
+
+PEACOCKS: 
+Peacock 1 Hunger:  45 Position:  114 18
+Peacock 2 Hunger:  48 Position:  39 47
+
+TIGERS: 
+Tiger 1 Hunger:  30 Position:  654 450
+Tiger 2 Hunger:  18 Position:  503 380
+Tiger 3 Hunger:  36 Position:  570 349
+Tiger 4 Hunger:  28 Position:  550 344
+Tiger 5 Hunger:  14 Position:  577 359
+Tiger 6 Hunger:  20 Position:  661 417
